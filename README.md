@@ -38,5 +38,11 @@ This project reflects a journey of continuous improvement and a commitment to ma
 
 The final component of this portfolio is designed to facilitate professional communication and networking with peers and industry experts. By integrating direct links to LinkedIn and GitHub profiles, as well as a dedicated contact portal, the platform acts as a bridge for collaboration. The contact section is engineered for high conversion, utilizing a clean layout that encourages inquiries regarding project partnerships or technical discussions. This strategic placement of social and professional identifiers ensures that the portfolio is not merely a static display but a functional tool for career advancement and community engagement within the global technology ecosystem.
 
-#output
+##output
+
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/32387bf8-433e-40fd-aded-490a4bd38407" />
+<img width="1917" height="1021" alt="Image" src="https://github.com/user-attachments/assets/ac9b9802-f0b3-4584-bad3-7f6bc63b9cca" />
+<img width="1918" height="1020" alt="Image" src="https://github.com/user-attachments/assets/095f32d9-fc0f-4290-9bb8-5935f01722ac" />
+<img width="1917" height="1025" alt="Image" src="https://github.com/user-attachments/assets/09f27c01-a9b5-462d-9722-83e3c8f8f713" />
+<img width="1917" height="1048" alt="Image" src="https://github.com/user-attachments/assets/95c015be-5d4a-41e8-b1eb-d8f49aee432d" />
 
